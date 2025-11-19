@@ -10,6 +10,9 @@
 
 - Added **Stripe** to process ride payments securely, completing the end-to-end booking flow from route selection to payment confirmation
 
+<br>
 View a preview of the ride share mobile app in the following video:
+
+<br>
 
 [![Watch the video](https://raw.githubusercontent.com/Ansh-Gandhi/Ride-Share-App/main/video_thumbnail.PNG)](https://youtube.com/shorts/VG7QVwWcPas?si=EYHWYFTpRRpVk7el)
